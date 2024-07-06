@@ -4,11 +4,11 @@ body {
   align-items: center;
   height: 100vh;
   /* background-color: teal; */
-  background-color: olive;
+  background-color: rgb(2, 90, 163);
 }
 
 h1 {
-  font-size: 20rem;
+  font-size: 15rem;
   /* font-family: Montserrat; */
 }
 
